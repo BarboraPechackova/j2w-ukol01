@@ -1,6 +1,6 @@
 
-    body {background-color: #b0e0e6;}
-    
+    body {background-color:white;background-image: url("waterfalls.jpg");color:white;text-align: center;}
+
       a:link {color:#7F10E0}
       div {padding:30px}
       .row::after {content: "";clear: both;display: table;}
@@ -18,14 +18,7 @@
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
-            opacity: 0.6;
+            opacity: 0.8;
             transition: 0.3s;}
       .button:hover {opacity: 1;}
 
-      .mleko {border: 5px solid black;}
-      td, th {border: 1px solid #000000;text-align: left;padding: 8px;}
-      tr:nth-child(even) {background-color: #ffffff;}
-
-
-      .domestikace .column {width:25%;}
-      .rozmnozovani .column {width:50%;}        
