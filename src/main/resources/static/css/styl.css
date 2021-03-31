@@ -1,7 +1,7 @@
 
-    body {background-color:white;background-image: url("waterfalls.jpg");color:white;text-align: center;}
+    body {background-color:white;background-image: url("waterfalls.jpg");color:white;text-align:center;padding: 90px 0;}
 
-      a:link {color:#7F10E0}
+
       div {padding:30px}
       .row::after {content: "";clear: both;display: table;}
       .column {float: left;width: 33.33%;padding: 5px;}
